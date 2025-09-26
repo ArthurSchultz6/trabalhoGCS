@@ -1,6 +1,7 @@
 
 public class Programa {
     public static void main(String[] args) {
-        System.out.println("Olá, mundo!");
+        string nome = "Aluno de GCS";
+        System.out.println("Olá," + nome + "!");
     }
 }
